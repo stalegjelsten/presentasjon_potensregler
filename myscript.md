@@ -123,11 +123,13 @@ $$ a^{\frac{1}{b}} = \sqrt[n]{a} $$
 
 Vi kan skrive røtter til tall som eksponenter. <!-- .element: class="fragment fade-in" data-fragment-index="1" -->
 
+
 #### Skriv så enkelt som mulig
 
 $$ 3^{\frac{1}{2}} = ?? $$ 
 
 $$ 3^{\frac{1}{2}} = \sqrt{3} $$  <!-- .element: class="fragment fade-in" data-fragment-index="1" -->
+
 
 #### Skriv så enkelt som mulig
 
