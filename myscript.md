@@ -60,7 +60,7 @@ $$ (4^5)^3 = 4^{5\cdot 3} = 4^{15} $$ <!-- .element: class="fragment fade-in" da
 
 ### Potens til produkter
 
-$$ \left(a\cdot b \right)^n = a^n \cdot a^m $$
+$$ \left(a\cdot b \right)^n = a^n \cdot b^n $$
 
 
 
