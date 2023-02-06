@@ -117,6 +117,25 @@ $$ 10^{-4} = ?? $$
 
 $$ 10^{-4} = \frac{1}{10^4} = \frac{1}{10\thinspace 000} $$  <!-- .element: class="fragment fade-in" data-fragment-index="1" -->
 ---
+
+### Potenser og røtter
+$$ a^{\frac{1}{b}} = \sqrt[n]{a} $$
+
+Vi kan skrive røtter til tall som eksponenter. <!-- .element: class="fragment fade-in" data-fragment-index="1" -->
+
+#### Skriv så enkelt som mulig
+
+$$ 3^{\frac{1}{2}} = ?? $$ 
+
+$$ 3^{\frac{1}{2}} = \sqrt{3} $$  <!-- .element: class="fragment fade-in" data-fragment-index="1" -->
+
+#### Skriv så enkelt som mulig
+
+$$ 32^{\frac{1}{5}} = ?? $$ 
+
+$$ 32^{\frac{1}{5}} = \sqrt[5]{32} = 2 $$  <!-- .element: class="fragment fade-in" data-fragment-index="1" -->
+
+
 <!-- <iframe scrolling="no"
 src="https://www.geogebra.org/material/iframe/id/23587/width/1600/height/715/border/888888/rc/false/ai/false/sdz/false/smb/false/stb/false/stbh/true/ld/false/sri/false"
 width="1600px"
