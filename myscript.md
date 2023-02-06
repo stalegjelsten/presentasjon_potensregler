@@ -38,7 +38,7 @@ $$ \frac{2^8}{2^4} = ??  $$
 
 ---
 
-### Nøstede eksponenter
+### Potenser opphøyd i nye eksponenter
 
 $$ (a^m)^n = a^{m\cdot n}$$
 
