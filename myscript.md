@@ -71,7 +71,7 @@ Du får ofte oppgaver hvor du må være litt smart og selv se at du kan bruke de
 $$ \left(a\cdot b \right)^n = a^n \cdot a^m $$
 
 
-#### Skriv så enkelt som mulig
+#### Skriv med så lavt grunntall som mulig
 
 $$ 25^3 = ?? $$ 
 
