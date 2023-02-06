@@ -119,9 +119,9 @@ $$ 10^{-4} = \frac{1}{10^4} = \frac{1}{10\thinspace 000} $$  <!-- .element: clas
 ---
 
 ### Potenser og røtter
-$$ a^{\frac{1}{b}} = \sqrt[n]{a} $$
+$$ a^{\frac{1}{n}} = \sqrt[n]{a} $$
 
-Vi kan skrive røtter til tall som eksponenter. <!-- .element: class="fragment fade-in" data-fragment-index="1" -->
+Vi kan skrive røttene til tall som eksponenter. Det er ofte enklere å regne med potenser enn med røtter.<!-- .element: class="fragment fade-in" data-fragment-index="1" -->
 
 
 #### Skriv så enkelt som mulig
