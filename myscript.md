@@ -116,6 +116,7 @@ $$ 3^{-4} = \frac{1}{3^4} = \frac{1}{81} $$  <!-- .element: class="fragment fade
 $$ 10^{-4} = ?? $$ 
 
 $$ 10^{-4} = \frac{1}{10^4} = \frac{1}{10\thinspace 000} $$  <!-- .element: class="fragment fade-in" data-fragment-index="1" -->
+
 ---
 
 ### Potenser og røtter
